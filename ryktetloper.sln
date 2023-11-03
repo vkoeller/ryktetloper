@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CE93B4F8-3ED2-47CC-B70F-A830A6D65437}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ryktetloper", "src\ryktetloper\ryktetloper.fsproj", "{A3C7A121-6872-4C5A-95F1-3CF7398A28BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C7A121-6872-4C5A-95F1-3CF7398A28BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C7A121-6872-4C5A-95F1-3CF7398A28BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C7A121-6872-4C5A-95F1-3CF7398A28BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C7A121-6872-4C5A-95F1-3CF7398A28BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A3C7A121-6872-4C5A-95F1-3CF7398A28BA} = {CE93B4F8-3ED2-47CC-B70F-A830A6D65437}
+	EndGlobalSection
+EndGlobal
