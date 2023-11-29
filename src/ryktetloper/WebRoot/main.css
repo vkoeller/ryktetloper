@@ -41,7 +41,11 @@ label input {
     
 }
 
+@media print {
+    .resultpage {page-break-after: always;}
+    body { margin: 0; }
+}
+
 article {
-    margin: 20px;
     font-size: 18pt;
 }
